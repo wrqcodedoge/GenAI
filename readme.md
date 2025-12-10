@@ -25,6 +25,7 @@
 ## 🧱 Autoregressive Models 🧠
 - Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation
 - Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction
+- RandAR: Decoder-only Autoregressive Visual Generation in Random Orders
 
 ---
 
@@ -37,7 +38,7 @@
 
 ---
 
-## 🧬➕🌫️ AR + Diffusion 🔀
+## 🧱➕🌫️ AR + Diffusion 🔀
 - Autoregressive Image Generation without Vector Quantization
 
 ---
@@ -47,14 +48,25 @@
 
 ---
 
-# 🧪 Applications 🚀
-(1) Controling generation
+# 🧪 Downstream 🚀
+(1) Controling image generation
+- Adding Conditional Control to Text-to-Image Diffusion Models
 
 
 
-(2) Image super-resolution
+(2) Generative model for Image super-resolution
+- Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild
 
 
+
+(3) Diffusion distillation
+- One-step Diffusion with Distribution Matching Distillation
+
+- Adversarial Diffusion Distillation
+
+- Consistency models
+
+- Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models
 
 
 
