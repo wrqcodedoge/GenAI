@@ -68,5 +68,25 @@
 
 - Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models
 
+(4) Diffusion + RL
+
+- Flow-GRPO: Training Flow Matching Models via Online RL
+
+
+
+# Useful blogs (highly recommended!)
+
+- https://diffusionflow.github.io/   The relationship between diffusion and flow
+
+- https://rectifiedflow.github.io/index.html  
+
+
+# Good book
+
+- https://probml.github.io/pml-book/book2.html
+
+# Good cource
+
+- Stanford CS236: Deep Generative Models, by Stefano Ermon 
 
 
