@@ -1,55 +1,59 @@
-# Awesome visual generative models
+# ✨ Awesome visual generative models 🎨🧠
+*A reading list for beginners* 📚🌱
 
-A reading list for beginners.
+---
 
-## VAE
+## 🧬 VAE 🧪
+- Auto-Encoding Variational Bayes (VAE)
+- Neural Discrete Representation Learning (VQ-VAE)
+- Taming Transformers for High-Resolution Image Synthesis (VQGAN)
+- Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models
 
-Auto-Encoding Variational Bayes (VAE)
+---
 
-Neural Discrete Representation Learning (VQVAE)
+## 🥊 GAN 🎭
+- A Style-Based Generator Architecture for Generative Adversarial Networks (StyleGAN)
 
-Taming transformers for high-resolution image synthesis (VQGAN)
+---
 
-Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models
+## 🌊 Normalizing Flows 🔁
+- Glow: Generative Flow with Invertible 1×1 Convolutions
+- STARFlow: Scaling Latent Normalizing Flows for High-resolution Image Synthesis
 
+---
 
-## GAN
+## 🧱 Autoregressive Models 🧠
+- Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation
+- Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction
 
-A Style-Based Generator Architecture for Generative Adversarial Networks (StyleGAN)
+---
 
-## Normalizing flows
+## 🌫️ Diffusion / Flow ⚡
+- Score-Based Generative Modeling through Stochastic Differential Equations
+- Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow
+- High-Resolution Image Synthesis with Latent Diffusion Model
+- DiT: Scalable Diffusion Models with Transformers
+- Mean Flows for One-step Generative Modeling
 
-Glow
+---
 
+## 🧬➕🌫️ AR + Diffusion 🔀
+- Autoregressive Image Generation without Vector Quantization
 
-## Autoregressive model
+---
 
-Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation
+## 🎭 Masked Modeling / Masked Diffusion 🥷
+- MaskGIT: Masked Generative Image Transformer
 
-Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction
+---
 
-## Diffusion / Flow
-
-Score-Based Generative Modeling through Stochastic Differential Equations
-
-Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow
-
-High-Resolution Image Synthesis with Latent Diffusion Model
-
-DiT: Scalable Diffusion Models with Transformers
-
-Mean Flows for One-step Generative Modeling
-
-
-
-## AR + Diffusion
-
-Autoregressive Image Generation without Vector Quantization
+# 🧪 Applications 🚀
+(1) Controling generation
 
 
-## Masked diffusion
 
-MaskGIT: Masked Generative Image Transformer
+(2) Image super-resolution
+
 
 
 
