@@ -74,6 +74,17 @@
 
 
 
+# Coding
+
+(1) Classical diffusion model architechture (for class-conditioned generation)
+- Unet: https://github.com/openai/guided-diffusion/blob/main/guided_diffusion/unet.py
+
+- Dit: https://github.com/facebookresearch/DiT/blob/main/models.py
+
+- LightingDiT: https://github.com/hustvl/LightningDiT/blob/main/models/lightningdit.py
+
+
+
 # Useful blogs (highly recommended!)
 
 - https://diffusionflow.github.io/   The relationship between diffusion and flow
