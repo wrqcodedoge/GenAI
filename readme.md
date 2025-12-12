@@ -34,7 +34,9 @@
 - Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow
 - High-Resolution Image Synthesis with Latent Diffusion Model
 - DiT: Scalable Diffusion Models with Transformers
-- Mean Flows for One-step Generative Modeling
+
+
+
 
 ---
 
@@ -49,13 +51,17 @@
 ---
 
 # 🧪 Downstream 🚀
-(1) Controling image generation
+(1) Controlling image generation
 - Adding Conditional Control to Text-to-Image Diffusion Models
 
 
 
 (2) Generative model for Image super-resolution
 - Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild
+
+- Diffusion Posterior Sampling for General Noisy Inverse Problems
+
+
 
 
 
@@ -67,6 +73,10 @@
 - Consistency models
 
 - Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models
+
+- Mean Flows for One-step Generative Modeling
+
+
 
 (4) Diffusion + RL
 
