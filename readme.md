@@ -7,8 +7,8 @@
 - Auto-Encoding Variational Bayes (VAE)
 - Neural Discrete Representation Learning (VQ-VAE)
 - Taming Transformers for High-Resolution Image Synthesis (VQGAN)
-- Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models
 
+(Read the pml book is enough)
 ---
 
 ## 🥊 GAN 🎭
@@ -18,7 +18,10 @@
 
 ## 🌊 Normalizing Flows 🔁
 - Glow: Generative Flow with Invertible 1×1 Convolutions
+
 - STARFlow: Scaling Latent Normalizing Flows for High-resolution Image Synthesis
+
+(Read the pml book is enough)
 
 ---
 
@@ -30,12 +33,11 @@
 ---
 
 ## 🌫️ Diffusion / Flow ⚡
-- Score-Based Generative Modeling through Stochastic Differential Equations
-- Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow
+- Score-Based Generative Modeling through Stochastic Differential Equations                
+- Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow       
+- Understanding Diffusion Objectives as the ELBO with Simple Data Augmentation             
 - High-Resolution Image Synthesis with Latent Diffusion Model
 - DiT: Scalable Diffusion Models with Transformers
-
-
 
 
 ---
@@ -95,11 +97,16 @@
 
 
 
-# Useful blogs (highly recommended!)
+# Useful blogs
+
+- https://yang-song.net/blog/2021/score/    (https://www.bilibili.com/video/BV1XYiiYXEba/?vd_source=f706732c93d1a9c8fd7357365bc7ce2d)
+
+- https://rectifiedflow.github.io/index.html  (https://www.bilibili.com/video/BV1pqHezrED5/?buvid=YC4A18C88131D84346AAB02C6EA43CAF142E)
 
 - https://diffusionflow.github.io/   The relationship between diffusion and flow
 
-- https://rectifiedflow.github.io/index.html  
+- https://blog.alexalemi.com/kl-is-all-you-need.html  Understand KL divergence
+
 
 
 # Good book
