@@ -8,7 +8,6 @@
 - Neural Discrete Representation Learning (VQ-VAE)
 - Taming Transformers for High-Resolution Image Synthesis (VQGAN)
 
-(Read the pml book is enough)
 ---
 
 ## 🥊 GAN 🎭
@@ -21,7 +20,6 @@
 
 - STARFlow: Scaling Latent Normalizing Flows for High-resolution Image Synthesis
 
-(Read the pml book is enough)
 
 ---
 
