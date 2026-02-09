@@ -3,9 +3,16 @@
 
 ---
 
+## 🚀 Energy-Based Model 🎨
+
+- Implicit Generation and Generalization with Energy Based Models
+- Equilibrium Matching: Generative Modeling with Implicit Energy-Based Models
+
+
+
 ## 🧬 VAE 🧪
 - Auto-Encoding Variational Bayes (VAE)
-- Neural Discrete Representation Learning (VQ-VAE)
+- Neural Discrete Representation Learning (VQVAE)
 - Taming Transformers for High-Resolution Image Synthesis (VQGAN)
 
 ---
@@ -38,6 +45,11 @@
 - DiT: Scalable Diffusion Models with Transformers
 
 
+## 🥊 Drifting Model 🔁
+
+- Generative Modeling via Drifting
+
+
 ---
 
 ## 🧱➕🌫️ AR + Diffusion 🔀
@@ -56,12 +68,12 @@
 
 
 
-(2) Generative model for Image super-resolution
+(2) Generative model for image super-resolution
 - Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild
 
 - Diffusion Posterior Sampling for General Noisy Inverse Problems
 
-
+- OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs
 
 
 
@@ -81,6 +93,8 @@
 (4) Diffusion + RL
 
 - Flow-GRPO: Training Flow Matching Models via Online RL
+- DiffusionNFT: Online Diffusion Reinforcement with Forward Process
+  
 
 
 
