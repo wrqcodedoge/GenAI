@@ -94,7 +94,7 @@
 
 - Flow-GRPO: Training Flow Matching Models via Online RL
 - DiffusionNFT: Online Diffusion Reinforcement with Forward Process
-  
+- Rethinking the Design Space of Reinforcement Learning for Diffusion Models: on the Importance of Likelihood Estimation Beyond Loss Design
 
 
 
